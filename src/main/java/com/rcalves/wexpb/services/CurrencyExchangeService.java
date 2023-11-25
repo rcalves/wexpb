@@ -51,7 +51,7 @@ public class CurrencyExchangeService {
     }
 
     public BigDecimal convertCurrency(BigDecimal amount, BigDecimal exchangeRate) {
-        return amount.multiply(exchangeRate).setScale(2, BigDecimal.ROUND_HALF_UP);
+        return amount.multiply(exchangeRate).setScale(2, RoundingMode.HALF_UP);
     }
 
     public List<String> getSupportedCurrencies() {
