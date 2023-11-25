@@ -1,4 +1,4 @@
-package com.rcalves.WEXPB.entities;
+package com.rcalves.wexpb.entities;
 
 import jakarta.persistence.*;
 import lombok.*;

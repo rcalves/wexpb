@@ -1,8 +1,8 @@
-package com.rcalves.WEXPB.services;
+package com.rcalves.wexpb.services;
 
-import com.rcalves.WEXPB.exceptions.BusinessException;
-import com.rcalves.WEXPB.integrations.models.ExchangeRateData;
-import com.rcalves.WEXPB.integrations.models.ExchangeRateResponse;
+import com.rcalves.wexpb.exceptions.BusinessException;
+import com.rcalves.wexpb.integrations.models.ExchangeRateData;
+import com.rcalves.wexpb.integrations.models.ExchangeRateResponse;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

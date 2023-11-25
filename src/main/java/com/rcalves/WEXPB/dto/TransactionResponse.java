@@ -1,4 +1,4 @@
-package com.rcalves.WEXPB.dto;
+package com.rcalves.wexpb.dto;
 
 import lombok.*;
 

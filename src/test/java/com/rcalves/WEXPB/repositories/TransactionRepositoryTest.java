@@ -1,6 +1,6 @@
-package com.rcalves.WEXPB.repositories;
+package com.rcalves.wexpb.repositories;
 
-import com.rcalves.WEXPB.entities.Transaction;
+import com.rcalves.wexpb.entities.Transaction;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

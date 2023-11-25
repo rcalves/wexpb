@@ -1,10 +1,10 @@
-package com.rcalves.WEXPB.services;
+package com.rcalves.wexpb.services;
 
-import com.rcalves.WEXPB.dto.TransactionForm;
-import com.rcalves.WEXPB.dto.TransactionResponse;
-import com.rcalves.WEXPB.entities.Transaction;
-import com.rcalves.WEXPB.exceptions.BusinessException;
-import com.rcalves.WEXPB.repositories.TransactionRepository;
+import com.rcalves.wexpb.dto.TransactionForm;
+import com.rcalves.wexpb.dto.TransactionResponse;
+import com.rcalves.wexpb.entities.Transaction;
+import com.rcalves.wexpb.exceptions.BusinessException;
+import com.rcalves.wexpb.repositories.TransactionRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

@@ -1,4 +1,4 @@
-package com.rcalves.WEXPB;
+package com.rcalves.wexpb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

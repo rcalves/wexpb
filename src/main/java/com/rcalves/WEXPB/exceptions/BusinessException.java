@@ -1,4 +1,4 @@
-package com.rcalves.WEXPB.exceptions;
+package com.rcalves.wexpb.exceptions;
 
 public class BusinessException extends RuntimeException {
     public BusinessException(String message) {

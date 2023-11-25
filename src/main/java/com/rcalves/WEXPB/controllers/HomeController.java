@@ -1,10 +1,10 @@
-package com.rcalves.WEXPB.controllers;
+package com.rcalves.wexpb.controllers;
 
-import com.rcalves.WEXPB.dto.TransactionForm;
-import com.rcalves.WEXPB.dto.TransactionResponse;
-import com.rcalves.WEXPB.exceptions.BusinessException;
-import com.rcalves.WEXPB.services.CurrencyExchangeService;
-import com.rcalves.WEXPB.services.TransactionService;
+import com.rcalves.wexpb.dto.TransactionForm;
+import com.rcalves.wexpb.dto.TransactionResponse;
+import com.rcalves.wexpb.exceptions.BusinessException;
+import com.rcalves.wexpb.services.CurrencyExchangeService;
+import com.rcalves.wexpb.services.TransactionService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

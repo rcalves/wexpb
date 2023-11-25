@@ -1,7 +1,7 @@
-package com.rcalves.WEXPB.controllers;
+package com.rcalves.wexpb.controllers;
 
-import com.rcalves.WEXPB.services.CurrencyExchangeService;
-import com.rcalves.WEXPB.services.TransactionService;
+import com.rcalves.wexpb.services.CurrencyExchangeService;
+import com.rcalves.wexpb.services.TransactionService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

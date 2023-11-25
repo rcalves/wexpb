@@ -1,4 +1,4 @@
-package com.rcalves.WEXPB.integrations.models;
+package com.rcalves.wexpb.integrations.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.*;

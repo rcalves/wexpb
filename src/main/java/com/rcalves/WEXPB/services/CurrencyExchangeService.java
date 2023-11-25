@@ -1,8 +1,8 @@
-package com.rcalves.WEXPB.services;
+package com.rcalves.wexpb.services;
 
-import com.rcalves.WEXPB.exceptions.BusinessException;
-import com.rcalves.WEXPB.integrations.models.ExchangeRateData;
-import com.rcalves.WEXPB.integrations.models.ExchangeRateResponse;
+import com.rcalves.wexpb.exceptions.BusinessException;
+import com.rcalves.wexpb.integrations.models.ExchangeRateData;
+import com.rcalves.wexpb.integrations.models.ExchangeRateResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

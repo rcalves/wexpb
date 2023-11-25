@@ -17,7 +17,7 @@ The project was developed using Intellij IDEA, JDK 17, Spring, Gradle and H2 Emb
 
 ## How to Run
 
-Using Intellij IDEA, open the project and run the main class: `com.rcalves.WEXPB.WexpbApplication`
+Using Intellij IDEA, open the project and run the main class: `com.rcalves.wexpb.WexpbApplication`
 
 Or in terminal, run the command: `java -jar .\WEXPB-0.0.1-SNAPSHOT.jar` in the project root folder. Need to have jdk 17 installed and in system path. 
 
